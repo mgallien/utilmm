@@ -18,7 +18,7 @@ Description: a C++ toolkit
 
 Package: libutilmm1-dev
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libutilmm1 (= ${Source-Version}), libboost-dev | libboost1.38-dev
+Depends: ${shlibs:Depends}, ${misc:Depends}, libutilmm1 (= ${binary:Version}), libboost-dev | libboost1.38-dev
 Description: a C++ toolkit (development files)
  Utilmm provides basic C++ tools that are generally useful and available
  neither in standard C++ nor in boost.

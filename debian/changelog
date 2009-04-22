@@ -1,5 +1,5 @@
 utilmm (1.0rc1-1) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- sylvain <sylvain.joyeux@dfki.de>  Wed, 22 Apr 2009 09:32:01 +0200
+ -- Sylvain Joyeux <sylvain.joyeux@dfki.de>  Wed, 22 Apr 2009 09:32:01 +0200
